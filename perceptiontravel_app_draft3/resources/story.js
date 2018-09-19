@@ -623,6 +623,24 @@ var story = {
 "title": "cure crps",
 'type': 'regular',
 "links": [
+{
+  "rect": [
+    24,
+    596,
+    177,
+    641
+   ],
+   "page": 33
+  }
+,{
+  "rect": [
+    24,
+    596,
+    177,
+    641
+   ],
+   "page": 33
+  }
 ]}
 ,{
 "image": "splash_screen.png",
@@ -2086,25 +2104,25 @@ var story = {
 "image": "selta_seed_video_submit.png",
 "image2x": "selta_seed_video_submit@2x.png",
 "width": 375,
-"height": 1567,
+"height": 1103,
 "title": "selta seed video submit",
 'type': 'regular',
 "links": [
 {
   "rect": [
-    65,
-    1274,
-    265,
-    1333
+    74,
+    1005,
+    274,
+    1064
    ],
    "page": 13
   }
 ,{
   "rect": [
-    65,
-    1274,
-    265,
-    1333
+    74,
+    1005,
+    274,
+    1064
    ],
    "page": 13
   }
